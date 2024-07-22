@@ -165,7 +165,7 @@ The project successfully automated the onboarding process, showcasing skills in 
 - Email notifications with Azure Logic Apps
 
 ## Repository Contents
-- Logic App workflow screenshots
+- Screenshots of each step of this Project
 - ARM template for VM provisioning
 
 ## Contact
