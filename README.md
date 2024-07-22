@@ -1,5 +1,17 @@
 # Onboard Automator
 
+## Project Workflow 
+![Workflow Design](https://github.com/user-attachments/assets/97e2a102-15b2-4572-9515-46e4aa6ede12)
+
+![1](https://github.com/user-attachments/assets/248e1a97-4e4e-4cd8-a552-0c343564b6d2)
+
+![2](https://github.com/user-attachments/assets/9987e165-0cd5-493a-a401-8b9787d221a9)
+
+![3](https://github.com/user-attachments/assets/0ce943c4-9a56-43e3-aeb6-1fee69f41a0c)
+
+![4](https://github.com/user-attachments/assets/ad0f0bec-b3d9-4b43-a270-bba4d255cf8a)
+
+
 ## Overview
 The Onboard Automator project aims to streamline and automate the process of onboarding new employees into Azure Active Directory (Azure AD) and assigning necessary Azure resources. This project uses Azure Logic Apps, Azure AD, Azure Resource Manager, and Azure Email Service.
 
