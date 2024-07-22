@@ -118,7 +118,7 @@ The Onboard Automator project aims to streamline and automate the process of onb
     - **Importance:** High
 
 ### 11. Monitoring and Review
-- **Action:** Monitor and review the onboarding process through Logic Apps run history and Azure AD logs.
+- **Action:** Monitor and review the onboarding process through Logic Apps run history.
   - **Details:** Sent a test email and verified the successful execution of the workflow and receipt of the welcome email.
 
 ## Testing the Project
