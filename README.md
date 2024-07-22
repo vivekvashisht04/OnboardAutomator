@@ -126,6 +126,22 @@ The Onboard Automator project aims to streamline and automate the process of onb
     HR Team
     ```
 - **Verification:** Checked the Logic Apps run history for successful execution and received the welcome email with the expected details.
+    ```
+    Dear John Doe,
+
+    Welcome to our team! We are excited to have you on board.
+
+    Here are your access details: -
+
+    Username: john.doe@vivekvash1507gmail.onmicrosoft.com
+    Temporary Password: abc
+
+    Please make sure to update your password upon first login. If you have any questions or need further assistance, feel free to reach out to the IT department.
+
+    Best regards ,
+    XYZ Organization
+
+    ```
 
 ## Conclusion
 The project successfully automated the onboarding process, showcasing skills in Azure Logic Apps, Azure AD, and Azure Resource Manager.
