@@ -139,7 +139,6 @@ The project successfully automated the onboarding process, showcasing skills in 
 ## Repository Contents
 - Logic App workflow screenshots
 - ARM template for VM provisioning
-- Sample email for testing
 
 ## Contact
 For any questions or further information, feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/vivek-vashisht04/
