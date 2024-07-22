@@ -142,6 +142,5 @@ The project successfully automated the onboarding process, showcasing skills in 
 - Sample email for testing
 
 ## Contact
-For any questions or further information, feel free to reach out to me on LinkedIn.
-Linkedin: https://www.linkedin.com/in/vivek-vashisht04/
+For any questions or further information, feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/vivek-vashisht04/
 
